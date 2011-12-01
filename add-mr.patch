@@ -1,0 +1,11 @@
+diff -up polkit-gnome-0.96/po/LINGUAS.add-mr polkit-gnome-0.96/po/LINGUAS
+--- polkit-gnome-0.96/po/LINGUAS.add-mr	2010-02-08 12:35:08.964265033 -0500
++++ polkit-gnome-0.96/po/LINGUAS	2010-02-08 12:35:15.609015306 -0500
+@@ -19,6 +19,7 @@ hu
+ it
+ ja
+ lt
++mr
+ nb
+ pa
+ pl
